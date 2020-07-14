@@ -23,7 +23,7 @@ public interface CardinalAPI {
      * Check if a player is an admin
      *
      * @param player The player to check
-     * @return Whether or not that player is an Admin
+     * @return Whether or not that player is an administrator (Has the Cardinal Admin Permission)
      */
     boolean isAdmin(Player player);
 }
