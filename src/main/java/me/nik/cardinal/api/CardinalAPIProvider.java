@@ -13,5 +13,4 @@ public class CardinalAPIProvider {
     public static void register(CardinalAPI api) {
         cardinalAPI = api;
     }
-    //fdsf
 }
