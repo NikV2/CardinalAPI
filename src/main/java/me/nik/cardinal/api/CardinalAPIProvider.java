@@ -5,7 +5,6 @@ public class CardinalAPIProvider {
 
     public CardinalAPIProvider() {
     }
-
     public static CardinalAPI getAPI() {
         return cardinalAPI;
     }
