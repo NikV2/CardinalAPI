@@ -13,7 +13,6 @@ public enum CheckType {
     AIMBOT_A("Aimbot (A)"),
     AIMBOT_B("Aimbot (B)"),
     AIMBOT_C("Aimbot (C)"),
-    AIMBOT_D("Aimbot (D)"),
     SCAFFOLD_A("Scaffold (A)"),
     SCAFFOLD_B("Scaffold (B)");
 
