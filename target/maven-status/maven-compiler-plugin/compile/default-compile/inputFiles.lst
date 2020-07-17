@@ -4,6 +4,8 @@ D:\Development\Java\Spigot\Cardinal\cardinal-api\src\main\java\me\nik\cardinal\a
 D:\Development\Java\Spigot\Cardinal\cardinal-api\src\main\java\me\nik\cardinal\api\events\BotAttackEvent.java
 D:\Development\Java\Spigot\Cardinal\cardinal-api\src\main\java\me\nik\cardinal\api\enums\CheckType.java
 D:\Development\Java\Spigot\Cardinal\cardinal-api\src\main\java\me\nik\cardinal\api\events\PlayerReportEvent.java
+D:\Development\Java\Spigot\Cardinal\cardinal-api\src\main\java\me\nik\cardinal\api\events\PlayerBanEvent.java
 D:\Development\Java\Spigot\Cardinal\cardinal-api\src\main\java\me\nik\cardinal\api\CardinalAPI.java
 D:\Development\Java\Spigot\Cardinal\cardinal-api\src\main\java\me\nik\cardinal\api\events\PlayerExploitEvent.java
+D:\Development\Java\Spigot\Cardinal\cardinal-api\src\main\java\me\nik\cardinal\api\events\PlayerPunishEvent.java
 D:\Development\Java\Spigot\Cardinal\cardinal-api\src\main\java\me\nik\cardinal\api\events\ServerLagEvent.java
