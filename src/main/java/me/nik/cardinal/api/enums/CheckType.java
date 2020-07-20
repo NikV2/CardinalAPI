@@ -1,9 +1,18 @@
 package me.nik.cardinal.api.enums;
 
 public enum CheckType {
+    KILLAURA_ANGLE("KillAura (Angle)"),
+    KILLAURA_IMPOSSIBLE("KillAura (Impossible)"),
+    KILLAURA_DIRECTION("KillAura (Direction)"),
+    KILLAURA_ACCURACY("KillAura (Accuracy)"),
+    KILLAURA_YAW("KillAura (Yaw)"),
+    KILLAURA_REACH("KillAura (Reach)"),
+    KILLAURA_WALLHIT("KillAura (WallHit)"),
+    KILLAURA_HITBOX("KillAura (HitBox)"),
+    KILLAURA_PATTERN("KillAura (Pattern)"),
     SPEED_A("Speed (A)"),
     FLY_A("Fly (A)"),
-    NOSWING_A("NoSwing (A)"),
+    NOSWING("NoSwing"),
     FASTREGEN("FastRegen"),
     FASTBOW("FastBow"),
     FASTEAT("FastEat"),
