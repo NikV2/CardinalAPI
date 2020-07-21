@@ -21,7 +21,6 @@ public enum CheckType {
     NOFALL_A("NoFall (A)"),
     AIMBOT_A("Aimbot (A)"),
     AIMBOT_B("Aimbot (B)"),
-    AIMBOT_C("Aimbot (C)"),
     SCAFFOLD_A("Scaffold (A)"),
     SCAFFOLD_B("Scaffold (B)");
 
