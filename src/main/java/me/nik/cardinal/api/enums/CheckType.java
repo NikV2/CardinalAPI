@@ -10,6 +10,7 @@ public enum CheckType {
     KILLAURA_WALLHIT("KillAura (WallHit)"),
     KILLAURA_HITBOX("KillAura (HitBox)"),
     KILLAURA_PATTERN("KillAura (Pattern)"),
+    KILLAURA_INVALID_ANGLE("KillAura (Invalid Angle)"),
     SPEED_A("Speed (A)"),
     FLY_A("Fly (A)"),
     NOSWING("NoSwing"),
