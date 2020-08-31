@@ -16,6 +16,7 @@ public enum CheckType {
     AUTOFISH_FARM("AutoFish (Farm)"),
     SPEED_A("Speed (A)"),
     FLY_A("Fly (A)"),
+    FREECAM("Freecam"),
     NOSWING("NoSwing"),
     FASTREGEN("FastRegen"),
     FASTBOW("FastBow"),
