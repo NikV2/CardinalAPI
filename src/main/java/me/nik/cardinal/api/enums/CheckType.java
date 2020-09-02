@@ -1,33 +1,21 @@
 package me.nik.cardinal.api.enums;
 
 public enum CheckType {
-    KILLAURA_ANGLE("KillAura (Angle)"),
-    KILLAURA_IMPOSSIBLE("KillAura (Impossible)"),
-    KILLAURA_DIRECTION("KillAura (Direction)"),
-    KILLAURA_ACCURACY("KillAura (Accuracy)"),
-    KILLAURA_YAW("KillAura (Yaw)"),
-    KILLAURA_WALLHIT("KillAura (WallHit)"),
-    KILLAURA_PATTERN("KillAura (Pattern)"),
-    KILLAURA_INVALID_ANGLE("KillAura (Invalid Angle)"),
-    KILLAURA_ROTATION("KillAura (Rotation)"),
+    KILLAURA("KillAura"),
     VELOCITY("Velocity"),
     TIMER("Timer"),
-    AUTOFISH_MACRO("AutoFish (Macro)"),
-    AUTOFISH_FARM("AutoFish (Farm)"),
-    SPEED_A("Speed (A)"),
-    FLY_A("Fly (A)"),
+    AUTOFISH("AutoFish"),
+    SPEED("Speed"),
+    FLY("Fly"),
     FREECAM("Freecam"),
     NOSWING("NoSwing"),
     FASTREGEN("FastRegen"),
     FASTBOW("FastBow"),
     FASTEAT("FastEat"),
-    CRITICALS_A("Criticals (A)"),
-    CRITICALS_B("Criticals (B)"),
-    NOFALL_A("NoFall (A)"),
-    AIMBOT_A("Aimbot (A)"),
-    AIMBOT_B("Aimbot (B)"),
-    SCAFFOLD_A("Scaffold (A)"),
-    SCAFFOLD_B("Scaffold (B)");
+    CRITICALS("Criticals"),
+    NOFALL("NoFall"),
+    AIMBOT("Aimbot"),
+    SCAFFOLD("Scaffold");
 
     private final String name;
 
