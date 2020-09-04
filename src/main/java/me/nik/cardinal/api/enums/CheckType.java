@@ -3,6 +3,7 @@ package me.nik.cardinal.api.enums;
 public enum CheckType {
     KILLAURA("KillAura"),
     VELOCITY("Velocity"),
+    AUTOCLICKER("AutoClicker"),
     TIMER("Timer"),
     AUTOFISH("AutoFish"),
     SPEED("Speed"),
