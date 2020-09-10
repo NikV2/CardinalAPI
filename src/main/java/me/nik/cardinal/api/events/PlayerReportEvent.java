@@ -8,13 +8,15 @@ public class PlayerReportEvent extends Event {
     private static final HandlerList handlers = new HandlerList();
 
     private final Player reporter;
-    private final Player reported;
+    private final String reported;
     private final String reason;
+    private final String information;
 
-    public PlayerReportEvent(Player reporter, Player reported, String reason) {
+    public PlayerReportEvent(Player reporter, String reported, String reason, String information) {
         this.reporter = reporter;
         this.reported = reported;
         this.reason = reason;
+        this.information = information;
     }
 
     public static HandlerList getHandlerList() {
@@ -25,12 +27,16 @@ public class PlayerReportEvent extends Event {
         return reporter;
     }
 
-    public Player getReported() {
+    public String getReported() {
         return reported;
     }
 
     public String getReason() {
         return reason;
+    }
+
+    public String getInformation() {
+        return information;
     }
 
     public HandlerList getHandlers() {

@@ -1,5 +1,6 @@
 me\nik\cardinal\api\CardinalAPIProvider.class
 me\nik\cardinal\api\CardinalAPI.class
+me\nik\cardinal\api\events\PlayerProxyEvent.class
 me\nik\cardinal\api\events\BotAttackEvent.class
 me\nik\cardinal\api\enums\CheckType.class
 me\nik\cardinal\api\events\PlayerBanEvent.class
