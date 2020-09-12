@@ -8,6 +8,7 @@ public enum CheckType {
     AUTOFISH("AutoFish"),
     SPEED("Speed"),
     FLY("Fly"),
+    BADPACKETS("BadPackets"),
     FREECAM("Freecam"),
     NOSWING("NoSwing"),
     FASTREGEN("FastRegen"),
