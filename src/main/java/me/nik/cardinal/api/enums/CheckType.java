@@ -10,7 +10,7 @@ public enum CheckType {
     FLY("Fly"),
     BADPACKETS("BadPackets"),
     FREECAM("Freecam"),
-    NOSWING("NoSwing"),
+    REACH("Reach"),
     FASTREGEN("FastRegen"),
     FASTBOW("FastBow"),
     FASTEAT("FastEat"),
