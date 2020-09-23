@@ -4,7 +4,6 @@ public enum CheckType {
     KILLAURA("KillAura"),
     VELOCITY("Velocity"),
     AUTOCLICKER("AutoClicker"),
-    TIMER("Timer"),
     AUTOFISH("AutoFish"),
     SPEED("Speed"),
     FLY("Fly"),
@@ -15,7 +14,6 @@ public enum CheckType {
     FASTBOW("FastBow"),
     FASTEAT("FastEat"),
     CRITICALS("Criticals"),
-    NOFALL("NoFall"),
     AIMBOT("Aimbot"),
     SCAFFOLD("Scaffold");
 
