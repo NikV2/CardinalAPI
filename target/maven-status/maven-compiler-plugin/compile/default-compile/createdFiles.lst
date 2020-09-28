@@ -2,7 +2,6 @@ me\nik\cardinal\api\CardinalAPIProvider.class
 me\nik\cardinal\api\events\BotAttackEvent.class
 me\nik\cardinal\api\events\PlayerBanEvent.class
 me\nik\cardinal\api\enums\ExploitType.class
-me\nik\cardinal\api\events\PlayerViolationEvent.class
 me\nik\cardinal\api\events\PlayerExploitEvent.class
 me\nik\cardinal\api\events\PlayerMuteEvent.class
 me\nik\cardinal\api\events\PlayerReportEvent.class
