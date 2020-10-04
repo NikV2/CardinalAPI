@@ -1,13 +1,12 @@
 me\nik\cardinal\api\CardinalAPIProvider.class
+me\nik\cardinal\api\CardinalAPI.class
+me\nik\cardinal\api\events\PlayerProxyEvent.class
 me\nik\cardinal\api\events\BotAttackEvent.class
 me\nik\cardinal\api\events\PlayerBanEvent.class
 me\nik\cardinal\api\enums\ExploitType.class
 me\nik\cardinal\api\events\PlayerExploitEvent.class
 me\nik\cardinal\api\events\PlayerMuteEvent.class
-me\nik\cardinal\api\events\PlayerReportEvent.class
-me\nik\cardinal\api\events\ServerLagEvent.class
-me\nik\cardinal\api\CardinalAPI.class
-me\nik\cardinal\api\events\PlayerProxyEvent.class
-me\nik\cardinal\api\enums\CheckType.class
 me\nik\cardinal\api\events\PlayerPunishEvent.class
+me\nik\cardinal\api\events\PlayerReportEvent.class
 me\nik\cardinal\api\events\PlayerKickEvent.class
+me\nik\cardinal\api\events\ServerLagEvent.class
