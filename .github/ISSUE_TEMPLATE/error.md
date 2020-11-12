@@ -3,7 +3,7 @@ name: Error
 about: Report an error.
 title: "[ERROR]"
 labels: Error
-assignees: ''
+assignees: NikV2
 
 ---
 

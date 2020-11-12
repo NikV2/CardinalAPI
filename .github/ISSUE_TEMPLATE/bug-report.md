@@ -3,7 +3,7 @@ name: Bug Report
 about: Make a bug report.
 title: "[BUG]"
 labels: Bug
-assignees: ''
+assignees: NikV2
 
 ---
 

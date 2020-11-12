@@ -3,7 +3,7 @@ name: Feature Request
 about: Request a feature.
 title: "[REQUEST]"
 labels: Request
-assignees: ''
+assignees: NikV2
 
 ---
 
