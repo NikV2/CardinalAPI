@@ -1,6 +1,6 @@
 ---
 name: Error
-about: Report an error
+about: Report an error.
 title: "[ERROR]"
 labels: Error
 assignees: ''
