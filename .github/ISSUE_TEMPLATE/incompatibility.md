@@ -1,6 +1,6 @@
 ---
 name: Incompatibility
-about: Report a plugin that does not run well with this one
+about: Report a plugin that does not run well with this one.
 title: ''
 labels: Incompatibility
 assignees: ''
