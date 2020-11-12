@@ -20,10 +20,10 @@ public interface CardinalAPI {
     double getTPS();
 
     /**
-     * Check if a player is an admin
+     * Get if a player is able to bypass the Anticheat (Has the Bypass permission)
      *
-     * @param player The player to check
-     * @return Whether or not that player is an administrator (Has the Cardinal Admin Permission)
+     * @param player The player
+     * @return Whether or not he can Bypass
      */
-    boolean isAdmin(Player player);
+    boolean canBypassAnticheat(Player player);
 }
