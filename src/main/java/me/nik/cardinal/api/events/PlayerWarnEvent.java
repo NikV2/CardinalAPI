@@ -4,28 +4,33 @@ import org.bukkit.entity.Player;
 import org.bukkit.event.Event;
 import org.bukkit.event.HandlerList;
 
-public class PlayerPunishEvent extends Event {
-
+public class PlayerWarnEvent extends Event {
     private static final HandlerList handlers = new HandlerList();
 
+    private final String from;
     private final Player player;
-    private final String check;
+    private final String reason;
 
-    public PlayerPunishEvent(Player player, String check) {
+    public PlayerWarnEvent(String from, Player player, String reason) {
+        this.from = from;
         this.player = player;
-        this.check = check;
+        this.reason = reason;
     }
 
     public static HandlerList getHandlerList() {
         return handlers;
     }
 
+    public String getFrom() {
+        return from;
+    }
+
     public Player getPlayer() {
         return player;
     }
 
-    public String getCheck() {
-        return check;
+    public String getReason() {
+        return reason;
     }
 
     public HandlerList getHandlers() {

@@ -9,6 +9,7 @@ public class BotAttackEvent extends Event {
     private final int connectionsPerSecond;
 
     public BotAttackEvent(int connectionsPerSecond) {
+        super(true);
         this.connectionsPerSecond = connectionsPerSecond;
     }
 

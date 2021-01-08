@@ -6,7 +6,7 @@ me\nik\cardinal\api\events\PlayerBanEvent.class
 me\nik\cardinal\api\enums\ExploitType.class
 me\nik\cardinal\api\events\PlayerExploitEvent.class
 me\nik\cardinal\api\events\PlayerMuteEvent.class
-me\nik\cardinal\api\events\PlayerPunishEvent.class
 me\nik\cardinal\api\events\PlayerReportEvent.class
+me\nik\cardinal\api\events\PlayerWarnEvent.class
 me\nik\cardinal\api\events\PlayerKickEvent.class
 me\nik\cardinal\api\events\ServerLagEvent.class
